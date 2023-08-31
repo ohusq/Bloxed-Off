@@ -1,4 +1,4 @@
-# Disclaimer
+# Disclaimer (THIS PROJECT IS NOT FINISHED)
 1. I'm not responsible if you corrupt / damage your Roblox installation
 2. This does not remove ALL registry keys such as keys from when you downloaded the client itself
 
